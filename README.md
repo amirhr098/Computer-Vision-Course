@@ -1,2 +1,2 @@
 # Computer Vision Course
- Computer Vision Homewokrs' Solution
+Iran University of Science and Technology's Computer Vision Course Homewokrs' Solution
